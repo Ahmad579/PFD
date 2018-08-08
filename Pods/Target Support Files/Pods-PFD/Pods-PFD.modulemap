@@ -1,0 +1,6 @@
+framework module Pods_PFD {
+  umbrella header "Pods-PFD-umbrella.h"
+
+  export *
+  module * { export * }
+}
